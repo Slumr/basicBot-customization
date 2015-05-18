@@ -61,7 +61,7 @@
         startupVolume: 0, // 0-100
         startupEmoji: false, // true or false
         cmdDeletion: true,
-        chatLink: "https://cdn.rawgit.com/Slumr/basicBot/master/lang/en.json",
+        chatLink: "https://rawgit.com/Slumr/basicBot/master/lang/en.json",
         maximumAfk: 120,
         afkRemoval: true,
         maximumDc: 60,
