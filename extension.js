@@ -114,6 +114,6 @@
     }));
 
     //Start the bot and extend it when it has loaded.
-    $.getScript("https://github.com/Slumr/basicBot/blob/master/basicBot.js", extend);
+    $.getScript("https://cdn.rawgit.com/Slumr/basicBot/master/basicBot.js", extend);
 
 }).call(this);
